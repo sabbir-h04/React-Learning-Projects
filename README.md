@@ -1,6 +1,6 @@
 # React Learning Projects
 
-This repository contains all my React projects built with Vite.
+I am learning React.This repository contains all my React practice/learning projects built with Vite.
 
 ## Live Projects
 
